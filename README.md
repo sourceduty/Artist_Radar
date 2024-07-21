@@ -20,6 +20,8 @@ To maximize user engagement and support discovery, Artist Radar employs a step-b
 [Animal Product](https://chatgpt.com/g/g-SskXtogt9-animal-product)
 <br>
 [Concept Design](https://chatgpt.com/g/g-JAsawu1Lv-concept-design)
+<br>
+[Music Mixology](https://chat.openai.com/g/g-Dx8EfEK8O-music-mixology)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
