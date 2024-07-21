@@ -1,4 +1,4 @@
-![Artist Radar](https://github.com/user-attachments/assets/b4582e5b-c367-471a-8681-4a091208437a)
+![Artist Radar](https://github.com/user-attachments/assets/f353bf1b-a4ce-43e5-9491-e055368cf33c)
 
 > Find and research new artists across the web.
 
